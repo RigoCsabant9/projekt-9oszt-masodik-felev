@@ -1,0 +1,90 @@
+.body{ 
+	background-size:100% 100%; 
+
+}
+
+
+h1{
+	font-family: "Bungee Inline", cursive;
+}
+
+
+
+.fejlec{
+	display: grid;
+	grid-template-columns: auto;
+	background-color: #ffffff;
+	opacity:0.8;
+	height: 670px;
+	align-items: center;
+	text-align: center;
+	font-size: x-large;
+	margin-bottom: 0px;
+	color: rgb(18, 22, 233);
+	width: 1000px;
+	position: relative;
+	margin: 0 auto 0 auto;
+}
+
+#cim{
+	text-align: center;
+	color: black;
+}
+
+
+#szoveg{
+	height: 800px;
+	width: 700px;
+	position: relative;
+	margin: 0 auto 0 auto;
+	text-align: justify;
+	color:rgb(63, 63, 63)
+	
+
+}
+
+.menu{
+	display: grid;
+	grid-template-columns: auto auto auto auto;
+	background-color:gray;
+	
+}
+
+
+.gomb{
+	display: inline-grid;
+	background-color: #f9fbfc;
+	height: 50px;
+	margin: 10px 5px 10px 5px;
+	color: black;
+	align-items: center;
+	text-align: center;
+	text-decoration: none;
+	font-size: x-large;
+	transition-duration: 0.5s;
+}
+
+.gomb:hover{
+	background-color: #9e9e9e;
+}
+.fejlec2{
+	display: grid;
+	grid-template-columns: auto;
+	background-color: #b2bcbf;
+	height: 100px;
+	align-items: center;
+	text-align: center;
+	font-size: large;
+	margin-bottom: 0px;
+	background-image: url('/kepek/kep2.jpg');
+	color: white;
+}
+.ok{
+	display: grid;
+	grid-template-columns: auto auto auto auto;
+	background-color:gray;
+
+
+
+}
+
